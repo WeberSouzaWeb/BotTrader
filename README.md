@@ -3,6 +3,7 @@ FOREX - Meta Trader 5
 
 # Introdução
 O projeto fofi organizado de acordo com a imagem abaixo, e a primeira parte se preocupa em trata da extração e tratamento dos dados.
+
 ![image](https://github.com/WeberSouzaWeb/BotTrader/assets/107212929/3cc69fd7-9124-47f0-b8e6-63b24a524626)
 
 ## Extração e Tratamento dos Dados
